@@ -10,7 +10,7 @@ so that someone without any discrete event simulation experience can get going a
 One nice aspect of HYDE is that it allows for stochastic generation of experiments
 This project is the outcome of a small portion of a group project, for a graduate level university class ...
 so we apologize in advance for any issues as this is just student code. The three main contributors are:
-https://github.com/antonisa, https://github.com/aargueta, and https://github.com/KentonMurray
+https://github.com/antonisa, https://github.com/aargueta2, and https://github.com/KentonMurray
 
 HYDE is split into three main components: Workloads, RAID, and Disks. The workloads are either stochastic or
 deterministic POSIX requests for Read, Write, and Delete. The RAID Controller implements three common RAID levels. 
